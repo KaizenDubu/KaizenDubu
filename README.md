@@ -1,7 +1,6 @@
 # 💫 About Me:
 Hi, I'm Raezan!
-I'm currently studying Computer Engineering at the University of San Carlos.
-I'm an aspiring Software Engineer, passionate about learning new things and constantly improving my skills. I enjoy exploring different technologies, building projects, and growing step-by-step toward becoming a better developer.
+I am a Computer Engineering graduate from the University of San Carlos based in Cebu, Philippines. I build practical software solutions involving full-stack development, database-backed applications, automation systems, and AI-assisted tools. My experience includes Python, React, SQL, Git, offline-first systems, OCR workflows, and industrial automation simulations.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/cabang1520/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Cabangraezan7@gmail.com) 
