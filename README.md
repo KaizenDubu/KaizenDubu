@@ -36,8 +36,6 @@ I'm a Computer Engineering graduate from the University of San Carlos based in C
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KaizenDubu&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=KaizenDubu&icon=0&color=1)](https://visitcount.itsvg.in)
